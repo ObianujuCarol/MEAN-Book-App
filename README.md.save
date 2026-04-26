@@ -1,0 +1,30 @@
+# 📚 Book Management Application (MEAN Stack)
+
+## 📌 Project Overview
+This project is a simple **Book Management Application** built using the **MEAN stack (MongoDB, Express, Angular, Node.js)**.
+
+The aim of this project is to demonstrate how a frontend interface interacts with a backend server and a database. Users can add books, view them in a list, and delete them when needed.
+
+---
+
+## 🏗️ How the Application Works
+The application follows a basic full-stack flow:
+
+- The user interacts with the interface (form and table)
+- The frontend sends requests to the backend server
+- The server processes the request using Express
+- Data is stored or retrieved from MongoDB
+- The updated result is displayed back on the interface
+
+---
+
+## 🛠️ Technologies Used
+- **MongoDB** – stores book data  
+- **Express.js** – handles server-side logic and API routes  
+- **Node.js** – runs the backend server  
+- **Angular / Static Frontend UI** – handles user interaction  
+- **Mongoose** – connects the application to MongoDB  
+
+---
+
+## 📁 Project Structure
